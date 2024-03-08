@@ -176,6 +176,6 @@ water_jug(2, 1).
 water_jug(4, 3).
 ```
 
-- You can Connect me here.
+# You can Connect me here.
 - [Github](https://github.com/abhyuday1212/)
 - [Linkedin](https://www.linkedin.com/in/abhyuday12/)
