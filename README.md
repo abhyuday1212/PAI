@@ -1,4 +1,4 @@
-# Prlog Programs
+# Prolog Programs
 Welcome to the Prolog Program Repository, an exceptional compilation of powerful programs designed to harness the full potential of Prolog programming. This repository is a dedicated space where logic comes to life, offering a diverse array of Prolog programs tailored to elevate your coding experience and enable sophisticated problem-solving in the realm of artificial intelligence, knowledge representation, and more.
 
 # Installation 
@@ -176,3 +176,6 @@ water_jug(2, 1).
 water_jug(4, 3).
 ```
 
+- You can Connect me here.
+- [Github](https://github.com/abhyuday1212/)
+- [Linkedin](https://www.linkedin.com/in/abhyuday12/)
